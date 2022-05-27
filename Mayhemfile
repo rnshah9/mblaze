@@ -1,0 +1,5 @@
+project: rnshah9/mblaze
+target: msort
+
+cmds:
+  - cmd: /repo/msort
