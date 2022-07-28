@@ -2,4 +2,4 @@ project: mblaze
 target: msort
 
 cmds:
-  - cmd: /repo/msort
+  - cmd: /msort
