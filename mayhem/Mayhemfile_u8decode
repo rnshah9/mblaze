@@ -1,0 +1,6 @@
+project: mblaze
+target: u8decode
+
+cmds:
+  - cmd: /fuzz_u8decode
+    libfuzzer: true
